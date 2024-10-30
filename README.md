@@ -40,3 +40,16 @@ Ao final deve se exibir uma mensagem:
 - "o {tipo} atacou usando {ataque}"
   ex: mago atacou usando magia
   guerreiro atacou usando espada
+
+# Sobre o meu Código
+- Realizei todos os requisitos pedidos pelo desafio
+  - criei a classe **Hero** e fiz seu construtor com os atributos pedidos
+  - dentro da classe criei o método **atacar()** que utilizou de um **switch** para determinar o tipo de ataque que seria realizado pelo herói de acordo com o seu tipo, além disso ao final apresenta a mensagem que foi exigida no desafio
+  - criei a função **obterTipoHeroi** em que utilizei um **do-while** e um **switch** para sortear através da simulação de um dado de 6 lados(com o método ***Math.random()***) qual seria o tipo do herói, sendo que caso o número sorteado seja 5 ou 6 o loop do-while se repete, pois só tem tipos determinados para os números do 1 até o 4
+
+#
+[Site da Dio](https://www.dio.me/)
+#####
+[Meu Linkedin](https://www.linkedin.com/in/maria-luiza-abrami-617bab330/?trk=opento_sprofile_details)
+#####
+[Meu Perfil na Dio](https://www.dio.me/users/marialuizaabrami)
